@@ -18,6 +18,7 @@ Dr Santha Santhakumar, SGC (project management) @Santha-SGC
 Professor Tim Willson, University of North Carolina Chapel Hill - @tmw20653   
 Dr Peter Brown, University North Carolina Chapel Hill, project manager     
 Dr Anwar Hossain, University North Carolina Chapel Hill, compound managment - @ahsgc
+
  
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
