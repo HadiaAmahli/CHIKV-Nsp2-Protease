@@ -24,11 +24,33 @@ Dr Anwar Hossain, University North Carolina Chapel Hill, compound managment - @a
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Vacant.  
 
-Other Contributors To Date:  
+Other Contributors To Date: 
+For biological assay:
+
+Picogreen assay: Jim Sacchettini, TAMU
+
+Picogreen assay: Arunima, Ken's Lab, UNC
+
+Gel-based screening: Egor, Matthia's Lab, U Alberta
+
+In-vitro antiviral: Tim Sheahan, UNC
+
+In-vitro antiviral: Sara Chery, U Penn
+
+Solubility, Microsomal Stability: Analiza
+
+GSH Stability: WuXi
+
+Toxicity: In parallel to in-vitro antiviral assay, in the respective lab
 
 
 Potential Contributors:
+
+
 You can see other contributors in the Issues (tab above).
 
 The licence for the content of this project is, unless otherwise stated, and as for all OCN projects, CC-BY-4.0. This means you can do whatever you like with the project content, including making money, provided you cite the project.
 
+This project is part of the SGC's Open Chemistry Networks initiative.
+
+<a href="url"><img src="https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/blob/main/Open%20Chemistry%20Networks%20Logos/OCN_Logo_Final_smban.png?raw=true" align="centre" height="300" ></a>
